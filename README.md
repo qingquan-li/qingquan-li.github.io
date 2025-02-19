@@ -4,8 +4,9 @@
 - Travel Photos
 - Blog
 - Resume
-- GitHub
 - LinkedIn
+- GitHub
+- Hackathon Projects
 
 ## Tech Stacks
   - React.js

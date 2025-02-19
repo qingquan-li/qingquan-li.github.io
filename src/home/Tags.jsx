@@ -38,11 +38,11 @@ export default function Tags() {
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         <a
-          href="https://devpost.com/software/asdfj"
+          href="https://devpost.com/Qingquan-Li"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hackathon Winner
+          3x Hackathon Winner
         </a>
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
