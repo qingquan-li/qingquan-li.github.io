@@ -26,6 +26,24 @@ export default function Tags() {
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         <a
+          href="https://www.credly.com/badges/8143605d-ba33-486f-b841-7d16933fdce2/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Building AI-Powered Search with MongoDB Vector Search
+        </a>
+      </span>
+      <span className="badge rounded-pill text-bg-light p-2 m-1">
+        <a
+          href="https://www.credly.com/badges/84dcb243-2583-43ff-bde5-fd49d198c011/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Building RAG Apps Using MongoDB
+        </a>
+      </span>
+      <span className="badge rounded-pill text-bg-light p-2 m-1">
+        <a
           href="https://badgr.com/public/assertions/gIqDvt7LQ5Oq6CqWwsBByA"
           target="_blank"
           rel="noopener noreferrer"
