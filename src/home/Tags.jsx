@@ -52,7 +52,13 @@ export default function Tags() {
         </a>
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
-        Computer Science Club President
+        <a
+          href="https://www.linkedin.com/posts/qingquan-li_gamejam-gamedevelopment-brooklyncollege-activity-7263958474194051073-1xai/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Computer Science Club President
+        </a>
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         <a
