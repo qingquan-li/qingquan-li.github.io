@@ -66,10 +66,10 @@ const Travel = () => {
           descrption="⛲️ Central Park, NY"
           photos={AmericaNewYorkCentralPark}
         />
-        <PhotosCard
+        {/* <PhotosCard
           descrption="🐂 Wall Street, NY"
           photos={AmericaNewYorkWallStreet}
-        />
+        /> */}
         <PhotosCard
           descrption="🗽 Statue of Liberty, NY"
           photos={AmericaNewYorkStatueOfLiberty}
@@ -78,10 +78,10 @@ const Travel = () => {
           descrption="The Metropolitan Museum of Art, NY"
           photos={AmericaNewYorkTheMET}
         />
-        <PhotosCard
+        {/* <PhotosCard
           descrption="🌸 Brooklyn Botanic Garden, NY"
           photos={AmericaNewYorkBrooklynBotanicGarden}
-        />
+        /> */}
         <PhotosCard
           descrption="⛺️ Taconic State Park, NY"
           photos={AmericaNewYorkTaconicStatePark}
