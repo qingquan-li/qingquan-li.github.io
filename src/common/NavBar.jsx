@@ -40,7 +40,7 @@ export default function NavBar() {
                 </svg>
               </a>
               <a className="nav-link"
-                href="https://github.com/Qingquan-Li"
+                href="https://github.com/qingquan-li"
                 target="_blank"
                 rel="noopener noreferrer"
               >

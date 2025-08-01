@@ -89,7 +89,7 @@ export default function Tags() {
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         <a
-          href="https://github.com/Qingquan-Li"
+          href="https://github.com/qingquan-li"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -104,7 +104,7 @@ export default function Tags() {
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         <a
-          href="https://github.com/Qingquan-Li/blog"
+          href="https://github.com/qingquan-li/blog"
           target="_blank"
           rel="noopener noreferrer"
         >
