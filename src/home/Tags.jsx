@@ -4,6 +4,9 @@ export default function Tags() {
   return (
     <div className="container text-center py-4 col-lg-8 mb-4">
       <span className="badge rounded-pill text-bg-light p-2 m-1">
+        System Analyst
+      </span>
+      <span className="badge rounded-pill text-bg-light p-2 m-1">
         Software Engineer
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
@@ -22,6 +25,24 @@ export default function Tags() {
           rel="noopener noreferrer"
         >
           AWS Certified Cloud Practitioner
+        </a>
+      </span>
+      <span className="badge rounded-pill text-bg-light p-2 m-1">
+        <a
+          href="https://www.credly.com/badges/92ee0655-5950-4a4a-9382-d1f07da154c3/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          CompTIA Security+
+        </a>
+      </span>
+      <span className="badge rounded-pill text-bg-light p-2 m-1">
+        <a
+          href="https://www.credly.com/badges/5429c58c-e075-4b86-acbb-0747f42b96a4/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Building AI Agents with MongoDB
         </a>
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
@@ -112,10 +133,10 @@ export default function Tags() {
         </a>
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
-        Java
+        Python
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
-        Python
+        Java
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         JavaScript
@@ -124,16 +145,13 @@ export default function Tags() {
         C++
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
-        Go
-      </span>
-      <span className="badge rounded-pill text-bg-light p-2 m-1">
-        Spring Boot
-      </span>
-      <span className="badge rounded-pill text-bg-light p-2 m-1">
         Django
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         Flask
+      </span>
+      <span className="badge rounded-pill text-bg-light p-2 m-1">
+        Spring Boot
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         React
@@ -142,7 +160,7 @@ export default function Tags() {
         PostgreSQL
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
-        MySQL
+        Oracle DB
       </span>
       <span className="badge rounded-pill text-bg-light p-2 m-1">
         MongoDB
